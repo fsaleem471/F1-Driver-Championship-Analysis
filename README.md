@@ -3,14 +3,7 @@
 ## Project Overview
 This project analyzes and visualizes F1 (Formula 1) driver championship performance across multiple seasons to identify patterns in driver dominance, consistency, and career trajectories. We compare top drivers' points progression, win rates, podium finishes, and other key metrics to understand what makes champions successful.
 
-## Course Information
-- **University:** IQRA University Islamabad
-- **Course:** AIN-375 Data Visualization
-- **Batch:** AI-FA-23
-- **Semester:** 6th
-- **Instructor:** Abdul Baqi Malik
-- **Total Marks:** 30
-- **Submission Deadline:** 09 June 2026
+
 
 ## Project Objectives
 
@@ -67,48 +60,7 @@ F1-Driver-Championship-Analysis/
     └── F1_Analysis_Presentation.pptx
 ```
 
-## Assessment Criteria
 
-### 1. Problem Understanding & Clarity (3 Marks)
-- Clear project statement and research questions
-- Well-defined objectives and scope
-
-### 2. Data Collection, Cleaning & Preprocessing (3 Marks)
-- Data from reliable sources (Kaggle, Ergast API)
-- Proper handling of missing values
-- Merging and transformation of datasets
-
-### 3. Data Visualization & Implementation (5 Marks)
-- Multiple visualization types (line, bar, heatmap, scatter)
-- Use of Python libraries (Matplotlib, Seaborn, Plotly)
-- Professional and clear visualizations
-
-### 4. Analysis & Meaningful Insights (2 Marks)
-- Statistical analysis of findings
-- Pattern identification and interpretation
-- Correlation analysis
-
-### 5. Presentation Skills & Communication (2 Marks)
-- Clear report structure
-- Professional formatting
-- Effective communication of results
-
-### 6. Project Implementation (15 Marks)
-- Complete working code
-- Clean and documented code
-- Proper project organization
-
-### 7. Report (5 Marks)
-- Comprehensive written documentation
-- All visualizations embedded
-- Proper citations and references
-
-### 8. VIVA (10 Marks)
-- Oral presentation and defense
-- Understanding of methodology
-- Ability to answer questions
-
-**Total: 30 Marks**
 
 ## Key Visualizations
 
